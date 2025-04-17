@@ -1,1 +1,1 @@
-# Stock_price-prediction
+This project generates synthetic stock market data and builds a linear regression model to predict closing prices using technical indicators and sentiment scores, with visualizations for predictions, residuals, and custom accuracy evaluation
